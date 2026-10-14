@@ -1,4 +1,4 @@
-# Ross Launcher 4
+# MrRossALPHA launcher
 
 Launcher do **jednych konkretnych buildów** Fortnite ze złotych prywatnych serwerów,
 z multiplayerem i własnym serwerem. C# / WPF na .NET 8.
